@@ -1,0 +1,24 @@
+li{
+	list-style: none;
+	text-decoration: none;
+}
+a.start {
+	display: inline-block;
+	color: #666;
+	background-color: #f4f4f4;
+	border: 1px dotted #ccc;
+	padding: 6px 13px;
+}
+.current{
+	padding: 10px;
+	background: #f4f4f4;
+	border: 1px dotted #ccc;
+	margin: 20px 0 10px 0;
+}
+#timer{
+	font-size: 2em;
+	background-color: #2F4F4F;
+	color: #fff;
+	width: 20%;
+	text-align: center;
+}
